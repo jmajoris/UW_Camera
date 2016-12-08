@@ -15,4 +15,4 @@ To address this question we must understand the behavioral abilities of reef fis
 Objective:
 The objective of this project is to build a camera that meets the following criteria: i) waterproof to >60', ii) battery life lasting 24hrs, iii) timelapse photo and video, iv) day and night functionality (IR illumination and sensitivity), v) the ability to record and store data from sensors (e.g., light, temperature, pressure), and finally, vi) < $100 USD. 
 
-# This project is an attempt to meet these criteria using a raspberry-pi, Rpi No-IR camera, and various off the shelf sensors. 
+This project is an attempt to meet these criteria using a raspberry-pi, Rpi No-IR camera, and various off the shelf components/sensors.
